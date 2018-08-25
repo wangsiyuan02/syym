@@ -1,1 +1,1 @@
-propagate isolation 
+propagate isolation springBoot sofa sofaBoot
